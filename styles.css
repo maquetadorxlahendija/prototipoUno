@@ -23,8 +23,9 @@ font-size: 30px;
 
 
 .imagen{
-height:400px; 
+height:300px; 
 width: 400px;
+
 
 }
 
@@ -36,4 +37,47 @@ section{
 
 .nombreCurso{
 	margin:30px;
+}
+footer{
+	
+	background: orange;
+
+
+width: 100%;
+text-align: center;
+}
+.btn{
+	margin: 20px;
+	background:  #bf5113 ;
+}
+
+.btn:hover{
+	background:  #dcac09 ;
+
+}
+.descripcioncurso{
+	text-align: center;
+	margin-top: 10px;}
+
+
+.card{
+	width: 80%;
+	margin: 0 auto;
+	margin-top:20px ;
+	margin-bottom: 20px;
+}
+
+.pestaña{
+	color: black ;
+	font-weight: 999;
+}
+h4{
+	margin-top: 27px;
+}
+.precio{
+	display: flex;
+}
+
+.infoCursos{
+	text-align: center;
 }
